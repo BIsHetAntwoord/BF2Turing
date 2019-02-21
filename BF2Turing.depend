@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1549903612 source:d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\bfcodeparser.cpp
+	"bfcodeparser.hpp"
+	<stack>
+	<cstddef>
+
+1549892478 d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\bfcodeparser.hpp
+	"bfcode.hpp"
+	<istream>
+
+1549892501 d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\bfcode.hpp
+	<string>
+	<map>
+	<cstddef>
+
+1549896395 source:d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\main.cpp
+	<iostream>
+	<fstream>
+	"bfcodeparser.hpp"
+	"turingcompiler.hpp"
+
+1549919916 d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\turingcompiler.hpp
+	<ostream>
+	<map>
+	<vector>
+	<limits>
+
+1549919746 source:d:\bestanden\data\codes\programeren\c++\projecten\bf2turing\turingcompiler.cpp
+	"turingcompiler.hpp"
+	"bfcode.hpp"
+	<sstream>
+	<string>
+

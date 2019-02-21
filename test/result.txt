@@ -1,0 +1,104 @@
+q0	[_]
+q1	 A [_]
+q2	 A  A [_]
+q3	 A  A  A [_]
+q4	 A  A  A  A [_]
+q5	 A  A  A  A  A [_]
+q6	 A  A  A  A  A  A [_]
+q7	 A  A  A  A  A  A  A [_]
+q8	 A  A  A  A  A  A  A  A [_]
+q9	 A  A  A  A  A  A  A  A  A [_]
+q10	 A  A  A  A  A  A  A  A  A  A [_]
+q11	 A  A  A  A  A  A  A  A  A  A  A [_]
+q12	 A  A  A  A  A  A  A  A  A  A  A  A [_]
+q13	 A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q14	 A  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q15	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q16	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q17	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH [_]
+q18	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A [_]
+q19	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A [_]
+q20	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A [_]
+q21	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A [_]
+q22	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A [_]
+q23	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A [_]
+q24	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A [_]
+q25	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A [_]
+q26	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A [_]
+q27	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A [_]
+q28	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A [_]
+q29	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q30	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q31	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q32	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [_]
+q33	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [0]
+q34	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [1]
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [B]
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A [A] B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A  A [A] A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A  A [A] A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A  A [A] A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A  A [A] A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A  A [A] A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A  A [A] A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A  A [A] A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A  A [A] A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A  A [A] A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A  A [A] A  A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A  A [A] A  A  A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A  A [A] A  A  A  A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH  A [A] A  A  A  A  A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  WH [A] A  A  A  A  A  A  A  A  A  A  A  A  A  A  B 
+q37	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [WH] A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  B 
+q293	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 [A] A  A  A  A  A  A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH [A] A  A  A  A  A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A [A] A  A  A  A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A [A] A  A  A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A [A] A  A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A [A] A  A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A [A] A  A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A [A] A  A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A [A] A  A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A [A] A  A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A [A] A  A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A [A] A  A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A [A] A  A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A [A] A  B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A [A] B 
+q549	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A [B]
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A [1]
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A [A] 1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A [A] A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A [A] A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A [A] A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A [A] A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A [A] A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A [A] A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A [A] A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A [A] A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A [A] A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A [A] A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A [A] A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A [A] A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH [A] A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 [WH] A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [1] WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A  A [A] 1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A  A [A] A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A  A [A] A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A  A [A] A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A  A [A] A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A  A [A] A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A  A [A] A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A  A [A] A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A  A [A] A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A  A [A] A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A  A [A] A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A  A [A] A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A  A [A] A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A  A [A] A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	 A [A] A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	[A] A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+q35	[_] A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+qA	 _ [A] A  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1  WH  A  A  A  A  A  A  A  A  A  A  A  A  A  A  1 
+Accept
